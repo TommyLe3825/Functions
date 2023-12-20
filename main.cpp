@@ -2,7 +2,7 @@
 using namespace std;
 
 //your code goes here
-template <typename T>T myMax(T x, T y){
+template <typename T>T myMax(T x, T y){ //typename can also be class
     return (x > y) ? x : y; //if true, it's x and if not, it's y
 }
 
