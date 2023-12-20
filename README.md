@@ -1,5 +1,6 @@
-# Functions-
-Function Templates
+# Functions
+Function Templates on Sololearn
+
 You need to write a function, which returns the maximum of its two parameters, and it should work for different data types (integers, doubles, etc.)
 
 Create a function template called myMax(), which takes two parameters and returns the larger one, so that the code in main works as expected.
